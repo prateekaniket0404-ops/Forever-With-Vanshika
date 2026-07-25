@@ -82,22 +82,30 @@ noBtn.addEventListener("mouseover", () => {
 
 const letter = `
 
-Dear Vanshika ❤️,
+Meri Jaan Vanshika ❤️,
 
-Jab se tum meri life me aayi ho,
-har din aur bhi khoobsurat lagta hai.
+Firstly... I love you a lot baby. ❤️
 
-Tum meri smile ho,
-meri happiness ho,
-aur meri sabse favourite person ho.
+Baby, main koi pretend nahi kar raha, na koi dikhava kar raha hoon. Jo bhi feel karta hoon, woh genuinely mere dil se aata hai.
 
-Main promise karta hu ki
-har situation me tumhara saath dunga.
+Tumhare saath hota hoon to sab kuch better lagta hai. Tumhari smile dekhkar main khush ho jata hoon, aur bas hamesha tumhe khush dekhna chahta hoon.
 
-I Love You So Much ❤️
+Mujhe tumhare liye change hona achha lagta hai. Main apna best version banna chahta hoon, jaisa tum deserve karti ho. Main chahta hoon ki tumhe hamesha meri wajah se sukoon aur khushi mile.
 
-Will You Be Mine Forever?
+Main tumhe din bhar yaad karta hoon. Shayad kabhi kabhi tumhe lage ki main over ho jata hoon... lekin jaisa bhi hoon, bas tumhara hi rehna chahta hoon. ❤️
 
+Mujhe tumhare saath sirf kuch months ya kuch years nahi bitane... I want to spend my whole life with you. Tumhare saath hasna hai, rona hai, ladna hai, manana hai, memories banana hai... sab kuch.
+
+Aur haan... mujhe pata hai tumhe lambe paragraphs pasand nahi hain 😅, lekin kya karun...
+
+Mere deep heart se... lungs se... kidney se... small intestine se... large intestine se... RBC, WBC... meri body ke har ek part se bas ek hi baat aati hai...
+
+I LOVE YOU SO MUCH BABY. ❤️🧿
+
+Will You Stay With Me Forever? 💍❤️.
+
+Forever Yours,
+Prateek ❤️
 `;
 
 const typeText = document.getElementById("typeText");
